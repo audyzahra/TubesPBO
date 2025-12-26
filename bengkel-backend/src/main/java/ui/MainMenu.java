@@ -15,5 +15,5 @@ public class MainMenu {
         // TEST 3-TIER
         DashboardController dc = new DashboardController();
         dc.loadDashboard();
-    }
+    } 
 }
