@@ -1,4 +1,4 @@
-package main.java.backend;
+package backend;
 
 public class App {
     public static void main(String[] args) {

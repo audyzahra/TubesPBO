@@ -1,6 +1,6 @@
-package main.java.backend;
+package backend;
 
-import main.java.backend.config.DatabaseConnection;
+import backend.config.DatabaseConnection;
 
 public class MainTest {
     public static void main(String[] args) {

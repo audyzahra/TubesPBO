@@ -1,4 +1,4 @@
-package main.java.backend.model;
+package backend.model;
 
 public class Mobil {
     private int id;

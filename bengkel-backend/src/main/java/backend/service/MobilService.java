@@ -1,7 +1,7 @@
-package main.java.backend.service;
+package backend.service;
 
-import main.java.backend.dao.MobilDAO;
-import main.java.backend.model.Mobil;
+import backend.dao.MobilDAO;
+import backend.model.Mobil;
 
 public class MobilService {
     private MobilDAO dao = new MobilDAO();

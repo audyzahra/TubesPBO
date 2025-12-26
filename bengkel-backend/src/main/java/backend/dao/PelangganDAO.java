@@ -1,11 +1,11 @@
-package main.java.backend.dao;
+package backend.dao;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 
-import main.java.backend.config.DatabaseConnection;
-import main.java.backend.model.Pelanggan;
+import backend.config.DatabaseConnection;
+import backend.model.Pelanggan;
 
 public class PelangganDAO {
 
